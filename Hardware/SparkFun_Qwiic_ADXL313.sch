@@ -26970,7 +26970,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="193.04" y="129.54" size="1.778" layer="97" font="vector">Closed = 0x53</text>
 <text x="193.04" y="132.08" size="1.778" layer="97" font="vector">Open (default) = 0x1D</text>
 <text x="170.434" y="11.43" size="2.54" layer="94" font="vector">Pete Lewis</text>
-<text x="237.744" y="7.366" size="2.54" layer="94" font="vector">v01</text>
+<text x="237.744" y="7.366" size="2.54" layer="94" font="vector">v10</text>
 <wire x1="0" y1="99.06" x2="81.28" y2="99.06" width="0.1524" layer="97" style="longdash"/>
 <text x="7.62" y="177.8" size="2.54" layer="94" font="vector">ADXL313 Accelerometer</text>
 <text x="7.62" y="91.44" size="2.54" layer="94" font="vector">Qwiic/I2C Connectors</text>
