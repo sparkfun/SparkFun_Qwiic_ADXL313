@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
@@ -7510,7 +7510,6 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <wire x1="9.5504" y1="17.272" x2="8.255" y2="15.9766" width="0.508" layer="16"/>
 <wire x1="8.255" y1="15.9766" x2="6.9088" y2="14.6304" width="0.508" layer="16"/>
 <wire x1="6.9088" y1="14.6304" x2="6.9088" y2="8.0518" width="0.508" layer="16"/>
-<wire x1="6.858" y1="14.6304" x2="6.9088" y2="14.6304" width="0.254" layer="16"/>
 <wire x1="4.7498" y1="17.399" x2="6.8326" y2="17.399" width="0.254" layer="16"/>
 <wire x1="6.8326" y1="17.399" x2="8.255" y2="15.9766" width="0.254" layer="16"/>
 <wire x1="19.05" y1="5.0918" x2="18.923" y2="5.2188" width="0.254" layer="1"/>
@@ -7760,11 +7759,11 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <approved hash="19,1,98189e4aec88eada"/>
 <approved hash="19,1,1a5b142206e00899"/>
 <approved hash="19,1,471a414cf80efe58"/>
-<approved hash="19,16,ab889ed104e50d2b"/>
-<approved hash="19,16,7716e065e80a8734"/>
 <approved hash="23,1,3df41a4d13217d03"/>
 <approved hash="23,1,68b6609616fd335a"/>
 <approved hash="23,1,504c0e0e312e0407"/>
+<approved hash="19,16,973215da79199d39"/>
+<approved hash="19,16,6ba3c54a069b1bd1"/>
 </errors>
 </board>
 </drawing>
