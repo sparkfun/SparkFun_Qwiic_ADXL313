@@ -7668,7 +7668,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <via x="16.5354" y="14.5288" extent="1-16" drill="0.381"/>
 <via x="16.0528" y="11.303" extent="1-16" drill="0.381"/>
 <via x="14.4018" y="18.288" extent="1-16" drill="0.381"/>
-<via x="16.4846" y="4.6228" extent="1-16" drill="0.381"/>
+<via x="15.3924" y="5.5372" extent="1-16" drill="0.381"/>
 <via x="19.7104" y="9.017" extent="1-16" drill="0.381"/>
 </signal>
 <signal name="SCL">
