@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="no"/>
+<setting alwaysvectorfont="yes"/>
 <setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
@@ -166,29 +166,23 @@
 <wire x1="0" y1="25.4" x2="25.4" y2="25.4" width="0.2032" layer="20"/>
 <wire x1="25.4" y1="25.4" x2="25.4" y2="0" width="0.2032" layer="20"/>
 <wire x1="25.4" y1="0" x2="0" y2="0" width="0.2032" layer="20"/>
-<wire x1="19.685" y1="16.9672" x2="22.352" y2="16.9672" width="0.254" layer="21"/>
-<wire x1="19.685" y1="16.9672" x2="20.066" y2="16.5862" width="0.254" layer="21"/>
-<wire x1="19.685" y1="16.9672" x2="20.066" y2="17.3482" width="0.254" layer="21"/>
-<wire x1="22.352" y1="19.6342" x2="22.352" y2="16.9672" width="0.254" layer="21"/>
-<wire x1="22.352" y1="19.6342" x2="21.971" y2="19.2532" width="0.254" layer="21"/>
-<wire x1="22.352" y1="19.6342" x2="22.733" y2="19.2532" width="0.254" layer="21"/>
-<circle x="21.209" y="18.1102" radius="0.127" width="0.254" layer="21"/>
-<text x="22.4536" y="20.2692" size="1.016" layer="21" font="vector" ratio="15" align="center">X</text>
-<text x="19.2278" y="17.018" size="1.016" layer="21" font="vector" ratio="15" align="center">Y</text>
-<text x="20.5486" y="19.2278" size="1.016" layer="21" font="vector" ratio="15" align="center">Z</text>
-<circle x="21.209" y="18.1102" radius="0.523634375" width="0.1778" layer="21"/>
-<wire x1="21.336" y1="15.4178" x2="24.003" y2="15.4178" width="0.254" layer="22"/>
-<wire x1="21.336" y1="15.4178" x2="21.717" y2="15.7988" width="0.254" layer="22"/>
-<wire x1="21.336" y1="15.4178" x2="21.717" y2="15.0368" width="0.254" layer="22"/>
-<wire x1="24.003" y1="18.0848" x2="24.003" y2="15.4178" width="0.254" layer="22"/>
-<wire x1="24.003" y1="18.0848" x2="24.384" y2="17.7038" width="0.254" layer="22"/>
-<wire x1="24.003" y1="18.0848" x2="23.622" y2="17.7038" width="0.254" layer="22"/>
-<text x="23.9268" y="18.7706" size="1.016" layer="22" font="vector" ratio="15" rot="MR180" align="center">X</text>
-<text x="20.7264" y="15.494" size="1.016" layer="22" font="vector" ratio="15" rot="MR0" align="center">Y</text>
-<text x="21.9456" y="17.6276" size="1.016" layer="22" font="vector" ratio="15" rot="MR0" align="center">Z</text>
-<circle x="22.86" y="16.5608" radius="0.523634375" width="0.1778" layer="22"/>
-<wire x1="23.1648" y1="16.891" x2="22.5298" y2="16.256" width="0.1778" layer="22"/>
-<wire x1="23.1648" y1="16.256" x2="22.5298" y2="16.891" width="0.1778" layer="22"/>
+<wire x1="21.5138" y1="17.6784" x2="21.5138" y2="20.3454" width="0.254" layer="21"/>
+<wire x1="21.5138" y1="17.6784" x2="21.8948" y2="18.0594" width="0.254" layer="21"/>
+<wire x1="21.5138" y1="17.6784" x2="21.1328" y2="18.0594" width="0.254" layer="21"/>
+<wire x1="18.8468" y1="20.3454" x2="21.5138" y2="20.3454" width="0.254" layer="21"/>
+<wire x1="18.8468" y1="20.3454" x2="19.2278" y2="19.9644" width="0.254" layer="21"/>
+<wire x1="18.8468" y1="20.3454" x2="19.2278" y2="20.7264" width="0.254" layer="21"/>
+<circle x="20.3708" y="19.2024" radius="0.127" width="0.254" layer="21"/>
+<circle x="20.3708" y="19.2024" radius="0.523634375" width="0.1778" layer="21"/>
+<wire x1="23.9522" y1="16.0274" x2="23.9522" y2="18.6944" width="0.254" layer="22"/>
+<wire x1="23.9522" y1="16.0274" x2="23.5712" y2="16.4084" width="0.254" layer="22"/>
+<wire x1="23.9522" y1="16.0274" x2="24.3332" y2="16.4084" width="0.254" layer="22"/>
+<wire x1="21.2852" y1="18.6944" x2="23.9522" y2="18.6944" width="0.254" layer="22"/>
+<wire x1="21.2852" y1="18.6944" x2="21.6662" y2="19.0754" width="0.254" layer="22"/>
+<wire x1="21.2852" y1="18.6944" x2="21.6662" y2="18.3134" width="0.254" layer="22"/>
+<circle x="22.8092" y="17.5514" radius="0.523634375" width="0.1778" layer="22"/>
+<wire x1="22.479" y1="17.8562" x2="23.114" y2="17.2212" width="0.1778" layer="22"/>
+<wire x1="23.114" y1="17.8562" x2="22.479" y2="17.2212" width="0.1778" layer="22"/>
 <text x="1.016" y="12.827" size="1.27" layer="16" font="vector" ratio="15" rot="MR90" align="center">v10</text>
 <dimension x1="2.54" y1="22.86" x2="22.86" y2="22.86" x3="12.7" y3="31.75" textsize="1.27" textratio="15" layer="47" unit="inch" visible="yes"/>
 <dimension x1="0" y1="25.4" x2="0" y2="0" x3="-8.89" y3="12.7" textsize="1.27" textratio="15" layer="47" unit="inch" visible="yes"/>
@@ -6276,6 +6270,108 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="0.68" y="0.68"/>
 </polygon>
 </package>
+<package name="X0">
+<polygon width="0.01" layer="21">
+<vertex x="0.07" y="0.02"/>
+<vertex x="0.35" y="0.32"/>
+<vertex x="0.38" y="0.38"/>
+<vertex x="0.36" y="0.44"/>
+<vertex x="0.3" y="0.49"/>
+<vertex x="0.25" y="0.51"/>
+<vertex x="0.19" y="0.49"/>
+<vertex x="0.14" y="0.43"/>
+<vertex x="-0.04" y="0.23"/>
+<vertex x="-0.08" y="0.18"/>
+<vertex x="-0.3" y="0.44"/>
+<vertex x="-0.36" y="0.49"/>
+<vertex x="-0.41" y="0.51"/>
+<vertex x="-0.47" y="0.49"/>
+<vertex x="-0.53" y="0.43"/>
+<vertex x="-0.54" y="0.38"/>
+<vertex x="-0.51" y="0.32"/>
+<vertex x="-0.28" y="0.07"/>
+<vertex x="-0.24" y="0.02"/>
+<vertex x="-0.47" y="-0.23"/>
+<vertex x="-0.52" y="-0.29"/>
+<vertex x="-0.54" y="-0.35"/>
+<vertex x="-0.52" y="-0.4"/>
+<vertex x="-0.46" y="-0.45"/>
+<vertex x="-0.4" y="-0.47"/>
+<vertex x="-0.35" y="-0.45"/>
+<vertex x="-0.3" y="-0.39"/>
+<vertex x="-0.12" y="-0.18"/>
+<vertex x="-0.08" y="-0.14"/>
+<vertex x="0.19" y="-0.45"/>
+<vertex x="0.25" y="-0.47"/>
+<vertex x="0.3" y="-0.45"/>
+<vertex x="0.36" y="-0.39"/>
+<vertex x="0.38" y="-0.34"/>
+<vertex x="0.35" y="-0.28"/>
+<vertex x="0.3" y="-0.23"/>
+</polygon>
+</package>
+<package name="Y0">
+<polygon width="0.01" layer="21">
+<vertex x="0.28" y="0.46"/>
+<vertex x="0.21" y="0.49"/>
+<vertex x="0.16" y="0.48"/>
+<vertex x="0.12" y="0.42"/>
+<vertex x="-0.07" y="0.13"/>
+<vertex x="-0.1" y="0.14"/>
+<vertex x="-0.29" y="0.43"/>
+<vertex x="-0.33" y="0.48"/>
+<vertex x="-0.39" y="0.49"/>
+<vertex x="-0.46" y="0.45"/>
+<vertex x="-0.5" y="0.4"/>
+<vertex x="-0.5" y="0.34"/>
+<vertex x="-0.46" y="0.28"/>
+<vertex x="-0.23" y="-0.06"/>
+<vertex x="-0.2" y="-0.12"/>
+<vertex x="-0.2" y="-0.4"/>
+<vertex x="-0.18" y="-0.45"/>
+<vertex x="-0.11" y="-0.47"/>
+<vertex x="-0.04" y="-0.47"/>
+<vertex x="0.02" y="-0.44"/>
+<vertex x="0.03" y="-0.38"/>
+<vertex x="0.03" y="-0.17"/>
+<vertex x="0.04" y="-0.1"/>
+<vertex x="0.3" y="0.29"/>
+<vertex x="0.34" y="0.36"/>
+<vertex x="0.33" y="0.41"/>
+</polygon>
+</package>
+<package name="Z0">
+<polygon width="0.01" layer="21">
+<vertex x="0.2" y="-0.25"/>
+<vertex x="-0.07" y="-0.25"/>
+<vertex x="-0.11" y="-0.24"/>
+<vertex x="0.28" y="0.3"/>
+<vertex x="0.3" y="0.37"/>
+<vertex x="0.28" y="0.43"/>
+<vertex x="0.22" y="0.47"/>
+<vertex x="0.16" y="0.48"/>
+<vertex x="-0.32" y="0.48"/>
+<vertex x="-0.38" y="0.48"/>
+<vertex x="-0.44" y="0.45"/>
+<vertex x="-0.45" y="0.39"/>
+<vertex x="-0.45" y="0.3"/>
+<vertex x="-0.41" y="0.26"/>
+<vertex x="-0.34" y="0.26"/>
+<vertex x="-0.07" y="0.26"/>
+<vertex x="-0.05" y="0.23"/>
+<vertex x="-0.44" y="-0.31"/>
+<vertex x="-0.45" y="-0.38"/>
+<vertex x="-0.42" y="-0.44"/>
+<vertex x="-0.37" y="-0.47"/>
+<vertex x="-0.3" y="-0.47"/>
+<vertex x="0.17" y="-0.47"/>
+<vertex x="0.25" y="-0.47"/>
+<vertex x="0.3" y="-0.44"/>
+<vertex x="0.32" y="-0.38"/>
+<vertex x="0.31" y="-0.31"/>
+<vertex x="0.27" y="-0.26"/>
+</polygon>
+</package>
 </packages>
 </library>
 <library name="SparkFun-Retired">
@@ -6329,15 +6425,15 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="-2.5" y1="2.5" x2="-2.5" y2="-2.5" width="0.127" layer="51"/>
 <wire x1="-2.5" y1="-2.5" x2="2.5" y2="-2.5" width="0.127" layer="51"/>
 <wire x1="2.5" y1="-2.5" x2="2.5" y2="2.5" width="0.127" layer="51"/>
-<wire x1="0.254" y1="1.143" x2="0.508" y2="1.143" width="0.0508" layer="51"/>
-<wire x1="0.508" y1="1.143" x2="0.381" y2="1.27" width="0.0508" layer="51"/>
-<wire x1="0.508" y1="1.143" x2="0.381" y2="1.016" width="0.0508" layer="51"/>
-<wire x1="-0.381" y1="1.397" x2="-0.381" y2="1.651" width="0.0508" layer="51"/>
-<wire x1="-0.381" y1="1.651" x2="-0.508" y2="1.524" width="0.0508" layer="51"/>
-<wire x1="-0.381" y1="1.651" x2="-0.254" y2="1.524" width="0.0508" layer="51"/>
+<wire x1="-0.3048" y1="1.0414" x2="-0.5588" y2="1.0414" width="0.0508" layer="51"/>
+<wire x1="-0.5588" y1="1.0414" x2="-0.4318" y2="1.1684" width="0.0508" layer="51"/>
+<wire x1="-0.5588" y1="1.0414" x2="-0.4318" y2="0.9144" width="0.0508" layer="51"/>
+<wire x1="0.3302" y1="1.4478" x2="0.3302" y2="1.7018" width="0.0508" layer="51"/>
+<wire x1="0.3302" y1="1.7018" x2="0.2032" y2="1.5748" width="0.0508" layer="51"/>
+<wire x1="0.3302" y1="1.7018" x2="0.4572" y2="1.5748" width="0.0508" layer="51"/>
 <circle x="-1.54" y="1.524" radius="0.1" width="0.2032" layer="51"/>
-<circle x="0.254" y="1.524" radius="0.127" width="0.0508" layer="51"/>
-<circle x="0.254" y="1.524" radius="0.0254" width="0.0508" layer="51"/>
+<circle x="-0.0508" y="1.4732" radius="0.127" width="0.0508" layer="51"/>
+<circle x="-0.0508" y="1.4732" radius="0.0254" width="0.0508" layer="51"/>
 <smd name="6" x="-2.385121875" y="-0.75" dx="0.3" dy="0.57" layer="1" rot="R270" cream="no"/>
 <smd name="5" x="-2.385121875" y="-0.25" dx="0.3" dy="0.57" layer="1" rot="R270" cream="no"/>
 <smd name="4" x="-2.385121875" y="0.25" dx="0.3" dy="0.57" layer="1" rot="R270" cream="no"/>
@@ -6352,9 +6448,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <smd name="9" x="-1.75" y="-2.38511875" dx="0.3" dy="0.57" layer="1" cream="no"/>
 <smd name="8" x="-2.385121875" y="-1.75" dx="0.3" dy="0.57" layer="1" rot="R270" cream="no"/>
 <smd name="7" x="-2.385121875" y="-1.25" dx="0.3" dy="0.57" layer="1" rot="R270" cream="no"/>
-<text x="-0.0254" y="0.9906" size="0.3048" layer="51" font="vector" ratio="15">X</text>
-<text x="-0.4826" y="1.016" size="0.3048" layer="51" font="vector" ratio="15">Y</text>
-<text x="-0.1016" y="1.397" size="0.3048" layer="51" font="vector" ratio="15">Z</text>
+<text x="0.2286" y="1.0922" size="0.3048" layer="51" font="vector" ratio="15">X</text>
+<text x="-0.254" y="0.9144" size="0.3048" layer="51" font="vector" ratio="15">Y</text>
+<text x="-0.4064" y="1.3462" size="0.3048" layer="51" font="vector" ratio="15">Z</text>
 <rectangle x1="-2.5019" y1="-1.57988125" x2="2.5019" y2="-1.55448125" layer="200"/>
 <rectangle x1="-2.5019" y1="-1.55448125" x2="-2.4511" y2="-1.52908125" layer="200"/>
 <rectangle x1="2.4765" y1="-1.55448125" x2="2.5019" y2="-1.52908125" layer="200"/>
@@ -7475,6 +7571,12 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <element name="U$10" library="output" package="#SDI#0" value="" x="11.4046" y="1.7526" smashed="yes" rot="MR90"/>
 <element name="U$20" library="output" package="#SCLK#0" value="" x="13.9446" y="1.7018" smashed="yes" rot="MR90"/>
 <element name="U$12" library="output" package="#_ADR#0" value="" x="23.8506" y="8.0772" smashed="yes" rot="MR90"/>
+<element name="U$17" library="output" package="X0" value="" x="20.5486" y="18.6944" smashed="yes" rot="MR0"/>
+<element name="U$21" library="output" package="X0" value="" x="18.3388" y="20.3454" smashed="yes"/>
+<element name="U$26" library="output" package="Y0" value="" x="23.8506" y="15.3416" smashed="yes" rot="MR0"/>
+<element name="U$29" library="output" package="Y0" value="" x="21.59" y="17.1196" smashed="yes"/>
+<element name="U$31" library="output" package="Z0" value="" x="21.717" y="16.637" smashed="yes" rot="MR0"/>
+<element name="U$32" library="output" package="Z0" value="" x="19.431" y="18.4658" smashed="yes"/>
 </elements>
 <signals>
 <signal name="3.3V">

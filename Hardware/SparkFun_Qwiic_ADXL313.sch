@@ -25490,15 +25490,15 @@ CAP-00811- 16V 10% (EIA-3216)</description>
 <wire x1="-2.5" y1="2.5" x2="-2.5" y2="-2.5" width="0.127" layer="51"/>
 <wire x1="-2.5" y1="-2.5" x2="2.5" y2="-2.5" width="0.127" layer="51"/>
 <wire x1="2.5" y1="-2.5" x2="2.5" y2="2.5" width="0.127" layer="51"/>
-<wire x1="0.254" y1="1.143" x2="0.508" y2="1.143" width="0.0508" layer="51"/>
-<wire x1="0.508" y1="1.143" x2="0.381" y2="1.27" width="0.0508" layer="51"/>
-<wire x1="0.508" y1="1.143" x2="0.381" y2="1.016" width="0.0508" layer="51"/>
-<wire x1="-0.381" y1="1.397" x2="-0.381" y2="1.651" width="0.0508" layer="51"/>
-<wire x1="-0.381" y1="1.651" x2="-0.508" y2="1.524" width="0.0508" layer="51"/>
-<wire x1="-0.381" y1="1.651" x2="-0.254" y2="1.524" width="0.0508" layer="51"/>
+<wire x1="-0.3048" y1="1.0414" x2="-0.5588" y2="1.0414" width="0.0508" layer="51"/>
+<wire x1="-0.5588" y1="1.0414" x2="-0.4318" y2="1.1684" width="0.0508" layer="51"/>
+<wire x1="-0.5588" y1="1.0414" x2="-0.4318" y2="0.9144" width="0.0508" layer="51"/>
+<wire x1="0.3302" y1="1.4478" x2="0.3302" y2="1.7018" width="0.0508" layer="51"/>
+<wire x1="0.3302" y1="1.7018" x2="0.2032" y2="1.5748" width="0.0508" layer="51"/>
+<wire x1="0.3302" y1="1.7018" x2="0.4572" y2="1.5748" width="0.0508" layer="51"/>
 <circle x="-1.54" y="1.524" radius="0.1" width="0.2032" layer="51"/>
-<circle x="0.254" y="1.524" radius="0.127" width="0.0508" layer="51"/>
-<circle x="0.254" y="1.524" radius="0.0254" width="0.0508" layer="51"/>
+<circle x="-0.0508" y="1.4732" radius="0.127" width="0.0508" layer="51"/>
+<circle x="-0.0508" y="1.4732" radius="0.0254" width="0.0508" layer="51"/>
 <smd name="6" x="-2.385121875" y="-0.75" dx="0.3" dy="0.57" layer="1" rot="R270" cream="no"/>
 <smd name="5" x="-2.385121875" y="-0.25" dx="0.3" dy="0.57" layer="1" rot="R270" cream="no"/>
 <smd name="4" x="-2.385121875" y="0.25" dx="0.3" dy="0.57" layer="1" rot="R270" cream="no"/>
@@ -25513,9 +25513,9 @@ CAP-00811- 16V 10% (EIA-3216)</description>
 <smd name="9" x="-1.75" y="-2.38511875" dx="0.3" dy="0.57" layer="1" cream="no"/>
 <smd name="8" x="-2.385121875" y="-1.75" dx="0.3" dy="0.57" layer="1" rot="R270" cream="no"/>
 <smd name="7" x="-2.385121875" y="-1.25" dx="0.3" dy="0.57" layer="1" rot="R270" cream="no"/>
-<text x="-0.0254" y="0.9906" size="0.3048" layer="51" font="vector" ratio="15">X</text>
-<text x="-0.4826" y="1.016" size="0.3048" layer="51" font="vector" ratio="15">Y</text>
-<text x="-0.1016" y="1.397" size="0.3048" layer="51" font="vector" ratio="15">Z</text>
+<text x="0.2286" y="1.0922" size="0.3048" layer="51" font="vector" ratio="15">X</text>
+<text x="-0.254" y="0.9144" size="0.3048" layer="51" font="vector" ratio="15">Y</text>
+<text x="-0.4064" y="1.3462" size="0.3048" layer="51" font="vector" ratio="15">Z</text>
 <rectangle x1="-2.5019" y1="-1.57988125" x2="2.5019" y2="-1.55448125" layer="200"/>
 <rectangle x1="-2.5019" y1="-1.55448125" x2="-2.4511" y2="-1.52908125" layer="200"/>
 <rectangle x1="2.4765" y1="-1.55448125" x2="2.5019" y2="-1.52908125" layer="200"/>
