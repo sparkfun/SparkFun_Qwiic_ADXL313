@@ -3,7 +3,7 @@ SparkFun 3-Axis Digital Accelerometer Breakout - ADXL313 (Qwiic)
 
 [![SparkFun 3-Axis Digital Accelerometer Breakout - ADXL313 (Qwiic)](https://cdn.sparkfun.com//assets/parts/1/6/2/2/4/17241-SparkFun_3-Axis_Digital_Accelerometer_Breakout_-_ADXL313__Qwiic_02.jpg)](https://www.sparkfun.com/products/17241)
 
-[*SparkFun 3-Axis Digital Accelerometer Breakout - ADXL313 (Qwiic) (WRL-15663)*](https://www.sparkfun.com/products/17241)
+[*SparkFun 3-Axis Digital Accelerometer Breakout - ADXL313 (Qwiic) (SEN-17241)*](https://www.sparkfun.com/products/17241)
 
 The ADXL313 is a low power, high resolution (up to 13-bits) 3-axis accelerometer for measurement up to ±4g. It measures the static acceleration of gravity in tilt-sensing applications, as well as dynamic acceleration resulting from motion or shock. Digital output data is formatted as 16-bit twos complement and is accessible through the on board Qwiic connectors (I<sup>2</sup>C) or SPI. Its high resolution and low noise enable resolution of inclination changes of as little as 0.1°, while a built-in FIFO facilitates using oversampling techniques to improve resolution to as little as 0.025° of inclination. The integrated 32-level FIFO can also be used to store data to minimize host processor intervention, resulting in reduced system power consumption. Additional low power modes enable intelligent motion-based power management with threshold sensing and active acceleration measurement at extremely low power dissipation. 
 
